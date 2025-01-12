@@ -28,6 +28,8 @@ allprojects {
         box2DLightsVersion = '1.4'
         ashleyVersion = '1.7.4'
         aiVersion = '1.8.0'
+        switchGdxVersion = '3.0.0-dev'
+        clearwingVersion = '3.0.0-dev'
     }
 
     repositories {

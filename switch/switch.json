@@ -1,0 +1,21 @@
+{
+    "mainClass": "com.thelogicmaster.switchgdx.SwitchLauncher",
+    "reflective": [
+        "com.badlogic.gdx.utils.*Array",
+        "com.badlogic.gdx.utils.*Set",
+        "com.badlogic.gdx.utils.*Map",
+
+        "com.artemis.BaseSystem",
+        "com.artemis.utils.BitVector",
+        "com.artemis.utils.Bag",
+        "com.artemis.Aspect.Builder",
+        "com.artemis.WildBag",
+        "com.artemis.EntityEdit",
+        "com.artemis.EntityTransmuter.TransmuteOperation",
+        "com.artemis.ComponentRemover",
+        "com.artemis.ComponentTypeFactory.ComponentTypeListener",
+        "com.artemis.EntitySubscription",
+        "com.artemis.Component",
+        "com.artemis.Aspect"
+    ]
+}
